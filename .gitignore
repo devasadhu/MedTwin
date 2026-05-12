@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Large model files
+models/*.pkl
+models/*.pt
+
+# Raw data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+medtwin-frontend/node_modules/
+medtwin-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
